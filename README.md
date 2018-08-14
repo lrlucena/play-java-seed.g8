@@ -13,7 +13,7 @@ You should only need to clone this project if you are modifying the giter8 templ
 If you want to create a project:
 
 ```bash
-sbt new playframework/play-java-seed.g8
+sbt new lrlucena/play-java-seed.g8
 ```
 
 ## Scaffolding
